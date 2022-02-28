@@ -5,8 +5,9 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: rgb(9, 67, 71);
+  background-color: rgba(204, 87, 24, 0.83);
   font-family: "Neucha", cursive;
+  margin: 0 auto;
 }
 
 .heading {
